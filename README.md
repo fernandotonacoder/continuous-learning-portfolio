@@ -3,7 +3,7 @@
 
 This portfolio contains certificates from courses I’ve completed as part of my continuous learning journey. It is regularly updated as I continue to grow professionally.
 
-I view ongoing education as a cornerstone of career development, covering both **technical skills**—such as .NET/C#, React, JavaScript, TypeScript, Java, C, C++ development, REST APIs, cloud architecture, DevOps, Azure, software testing, and more — and **soft skills**, including communication, teamwork, Agile methodologies like Scrum and so on.
+I view ongoing education as a cornerstone of career development, covering both **technical skills**—such as .NET/C#, React, JavaScript, TypeScript, Java, C, C++, REST APIs, cloud architecture, DevOps, Azure, and software testing, **among other technologies**—and **soft skills**, including communication, teamwork, Agile methodologies like Scrum, **and other professional competencies**.
 
 ---
 
