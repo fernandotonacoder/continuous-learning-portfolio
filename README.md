@@ -3,21 +3,26 @@
 
 This portfolio contains certificates from courses I’ve completed as part of my continuous learning journey. It is regularly updated as I continue to grow professionally.
 
-I view ongoing education as a cornerstone of career development, covering both **technical skills**—such as .NET/C#, React, JavaScript, TypeScript, Java, C, C++, REST APIs, cloud architecture, DevOps, Azure, and software testing, **among other technologies**—and **soft skills**, including communication, teamwork, Agile methodologies like Scrum, **and other professional competencies**.
-
 ---
 
 ## 📂 Explore the Portfolio
 
-You can view the full collection of certificates and course documentation through the link below:
+You can view the full collection of certificates and course documentation via:
 
-👉 [View Portfolio (external link)](https://drive.proton.me/urls/R6HZM9KFF0#2yzapUekqvIq)  
-*Note: If the link is broken or unavailable, browse the `/Fernando Tona - Continuous Learning Portfolio (YYYY-MM-DD)` folder directly in this repository.*
+- Visiting [this external link](https://drive.proton.me/urls/R6HZM9KFF0#2yzapUekqvIq)
+- Browsing the `/Fernando_Tona_Continuous_Learning_Portfolio_(YYYY-MM-DD)` folder directly in this repository.*
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- 📄 [View My CV (PDF)](https://drive.proton.me/urls/84RW0GAETC#U0bhweOPHsuc)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fernandotona/)  
-- ✉️ [fernando.tona.dev@proton.me](mailto:fernando.tona.dev@proton.me)
+## Contact
+
+Feel free to connect and reach out.
+
+[My CV (PDF)](https://drive.proton.me/urls/15TE5PTP3M#VCsRQUGxixvT) |
+[LinkedIn](https://www.linkedin.com/in/fernandotona/) |
+[Developer Website](https://fernandotonacoder.github.io/) |
+fernandotonacoder@protonmail.com
+
+</div>
