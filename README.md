@@ -25,7 +25,6 @@ Feel free to connect and reach out.
 
 [My CV (PDF)](https://drive.proton.me/urls/15TE5PTP3M#VCsRQUGxixvT) |
 [LinkedIn](https://www.linkedin.com/in/fernandotona/) |
-[Developer Website](https://fernandotonacoder.github.io/) |
-fernandotonacoder@protonmail.com
+[Developer Website](https://fernandotonacoder.github.io/)
 
 </div>
